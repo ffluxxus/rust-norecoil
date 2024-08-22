@@ -14,7 +14,7 @@ This type of script is not new and is very public. I don't give a flying fuck wh
 
 ---
 
-![ShowcaseImage](https://github.com/ffluxxus/rust-norecoil/blob/main/image_2024-08-22_165511096.png?raw=true)
+![ShowcaseImage](https://github.com/ffluxxus/rust-norecoil/blob/main/image_2024-08-22_171637768.png?raw=true)
 *currently working on different values for different displays / settings*
 
 ### Description
